@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+
+.main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 20px;
+    width: 150px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+}
